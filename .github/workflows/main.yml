@@ -6,7 +6,7 @@ name: CI
 
 on:
 
-  # Allows you to run this workflow manually from the Actions tab
+  # Allows you to run this workflow manually from nothe Actions tab
 
   workflow_dispatch:
 
