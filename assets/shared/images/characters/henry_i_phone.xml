@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="henry_i_phone.png">
+<SubTexture name="Henry Down0000" x="0" y="0" width="430" height="386" frameX="-2" frameY="-6" frameWidth="427" frameHeight="388" />
+<SubTexture name="Henry Down0001" x="0" y="0" width="430" height="386" frameX="-2" frameY="-6" frameWidth="427" frameHeight="388" />
+<SubTexture name="Henry Down0002" x="430" y="0" width="428" height="392" frameX="0" frameY="0" frameWidth="427" frameHeight="388" />
+<SubTexture name="Henry Down0003" x="430" y="0" width="428" height="392" frameX="0" frameY="0" frameWidth="427" frameHeight="388" />
+<SubTexture name="Henry Down0004" x="430" y="0" width="428" height="392" frameX="0" frameY="0" frameWidth="427" frameHeight="388" />
+<SubTexture name="Henry Down0005" x="430" y="0" width="428" height="392" frameX="0" frameY="0" frameWidth="427" frameHeight="388" />
+<SubTexture name="Henry Down0006" x="430" y="0" width="428" height="392" frameX="0" frameY="0" frameWidth="427" frameHeight="388" />
+<SubTexture name="Henry Down0007" x="430" y="0" width="428" height="392" frameX="0" frameY="0" frameWidth="427" frameHeight="388" />
+<SubTexture name="Henry Down0008" x="430" y="0" width="428" height="392" frameX="0" frameY="0" frameWidth="427" frameHeight="388" />
+<SubTexture name="Henry Down0009" x="430" y="0" width="428" height="392" frameX="0" frameY="0" frameWidth="427" frameHeight="388" />
+<SubTexture name="Henry Down0010" x="430" y="0" width="428" height="392" frameX="0" frameY="0" frameWidth="427" frameHeight="388" />
+<SubTexture name="Henry Down0011" x="430" y="0" width="428" height="392" frameX="0" frameY="0" frameWidth="427" frameHeight="388" />
+<SubTexture name="Henry Down0012" x="430" y="0" width="428" height="392" frameX="0" frameY="0" frameWidth="427" frameHeight="388" />
+<SubTexture name="Henry Down0013" x="430" y="0" width="428" height="392" frameX="0" frameY="0" frameWidth="427" frameHeight="388" />
+<SubTexture name="Henry Greatest Plan Intro0000" x="859" y="0" width="306" height="467" frameX="0" frameY="-166" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0001" x="859" y="0" width="306" height="467" frameX="0" frameY="-166" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0002" x="1165" y="0" width="306" height="468" frameX="-1" frameY="-165" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0003" x="1165" y="0" width="306" height="468" frameX="-1" frameY="-165" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0004" x="1472" y="0" width="299" height="473" frameX="-4" frameY="-160" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0005" x="1472" y="0" width="299" height="473" frameX="-4" frameY="-160" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0006" x="1771" y="0" width="289" height="486" frameX="-5" frameY="-147" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0007" x="1771" y="0" width="289" height="486" frameX="-5" frameY="-147" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0008" x="2060" y="0" width="288" height="487" frameX="-5" frameY="-146" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0009" x="2060" y="0" width="288" height="487" frameX="-5" frameY="-146" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0010" x="2060" y="0" width="288" height="487" frameX="-5" frameY="-146" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0011" x="2060" y="0" width="288" height="487" frameX="-5" frameY="-146" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0012" x="2060" y="0" width="288" height="487" frameX="-5" frameY="-146" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0013" x="2060" y="0" width="288" height="487" frameX="-5" frameY="-146" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0014" x="2060" y="0" width="288" height="487" frameX="-5" frameY="-146" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0015" x="2060" y="0" width="288" height="487" frameX="-5" frameY="-146" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0016" x="2060" y="0" width="288" height="487" frameX="-5" frameY="-146" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0017" x="2060" y="0" width="288" height="487" frameX="-5" frameY="-146" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0018" x="2060" y="0" width="288" height="487" frameX="-5" frameY="-146" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0019" x="2349" y="0" width="288" height="483" frameX="-5" frameY="-150" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0020" x="2637" y="0" width="306" height="442" frameX="-4" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0021" x="2637" y="0" width="306" height="442" frameX="-4" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0022" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0023" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0024" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0025" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0026" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0027" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0028" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0029" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0030" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0031" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0032" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0033" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0034" x="305" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0035" x="305" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0036" x="610" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0037" x="610" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0038" x="915" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0039" x="915" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0040" x="1220" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0041" x="1220" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0042" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0043" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0044" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0045" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0046" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0047" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0048" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0049" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0050" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0051" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0052" x="0" y="487" width="305" height="442" frameX="-5" frameY="-192" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0053" x="1525" y="487" width="307" height="442" frameX="-5" frameY="-191" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0054" x="1832" y="487" width="276" height="484" frameX="-5" frameY="-150" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0055" x="1832" y="487" width="276" height="484" frameX="-5" frameY="-150" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0056" x="2109" y="487" width="275" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0057" x="2109" y="487" width="275" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0058" x="2109" y="487" width="275" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0059" x="2109" y="487" width="275" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0060" x="2109" y="487" width="275" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0061" x="2109" y="487" width="275" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0062" x="2109" y="487" width="275" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0063" x="2109" y="487" width="275" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0064" x="2109" y="487" width="275" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0065" x="2109" y="487" width="275" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0066" x="2385" y="487" width="279" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0067" x="2385" y="487" width="279" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0068" x="0" y="971" width="313" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0069" x="0" y="971" width="313" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0070" x="313" y="971" width="319" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0071" x="313" y="971" width="319" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0072" x="632" y="971" width="319" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0073" x="632" y="971" width="319" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0074" x="951" y="971" width="319" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0075" x="951" y="971" width="319" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0076" x="1270" y="971" width="319" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0077" x="1590" y="971" width="355" height="499" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0078" x="1590" y="971" width="355" height="499" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0079" x="1945" y="971" width="360" height="489" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0080" x="1945" y="971" width="360" height="489" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0081" x="2306" y="971" width="366" height="498" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0082" x="2306" y="971" width="366" height="498" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0083" x="2673" y="971" width="366" height="498" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0084" x="2673" y="971" width="366" height="498" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0085" x="2673" y="971" width="366" height="498" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0086" x="2673" y="971" width="366" height="498" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0087" x="2673" y="971" width="366" height="498" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0088" x="0" y="1470" width="366" height="496" frameX="-5" frameY="-153" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0089" x="0" y="1470" width="366" height="496" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0090" x="366" y="1470" width="366" height="496" frameX="-5" frameY="-153" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0091" x="366" y="1470" width="366" height="496" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0092" x="366" y="1470" width="366" height="496" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0093" x="733" y="1470" width="319" height="480" frameX="-5" frameY="-153" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0094" x="733" y="1470" width="319" height="480" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0095" x="366" y="1470" width="366" height="496" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0096" x="366" y="1470" width="366" height="496" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0097" x="733" y="1470" width="319" height="480" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0098" x="733" y="1470" width="319" height="480" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0099" x="366" y="1470" width="366" height="496" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0100" x="366" y="1470" width="366" height="496" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0101" x="1052" y="1470" width="322" height="633" frameX="-5" frameY="0" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0102" x="1375" y="1470" width="366" height="575" frameX="-5" frameY="-74" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0103" x="1741" y="1470" width="335" height="480" frameX="-5" frameY="-153" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0104" x="2077" y="1470" width="366" height="496" frameX="-5" frameY="-153" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0105" x="2444" y="1470" width="339" height="479" frameX="-5" frameY="-154" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0106" x="2444" y="1470" width="339" height="479" frameX="-5" frameY="-154" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0107" x="2783" y="1470" width="335" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0108" x="2783" y="1470" width="335" height="482" frameX="-5" frameY="-151" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0109" x="0" y="2104" width="335" height="482" frameX="-5" frameY="-152" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0110" x="0" y="2104" width="335" height="482" frameX="-5" frameY="-151" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0111" x="0" y="2104" width="335" height="482" frameX="-5" frameY="-151" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0112" x="0" y="2104" width="335" height="482" frameX="-5" frameY="-151" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0113" x="0" y="2104" width="335" height="482" frameX="-5" frameY="-151" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0114" x="0" y="2104" width="335" height="482" frameX="-5" frameY="-151" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0115" x="0" y="2104" width="335" height="482" frameX="-5" frameY="-151" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0116" x="0" y="2104" width="335" height="482" frameX="-5" frameY="-151" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0117" x="0" y="2104" width="335" height="482" frameX="-5" frameY="-151" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0118" x="0" y="2104" width="335" height="482" frameX="-5" frameY="-151" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0119" x="0" y="2104" width="335" height="482" frameX="-5" frameY="-151" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0120" x="0" y="2104" width="335" height="482" frameX="-5" frameY="-151" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0121" x="0" y="2104" width="335" height="482" frameX="-5" frameY="-151" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Greatest Plan Intro0122" x="0" y="2104" width="335" height="482" frameX="-5" frameY="-151" frameWidth="365" frameHeight="646" />
+<SubTexture name="Henry Idle0000" x="335" y="2104" width="350" height="475" frameX="0" frameY="-10" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle0001" x="335" y="2104" width="350" height="475" frameX="0" frameY="-9" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle0002" x="685" y="2104" width="350" height="476" frameX="-1" frameY="-9" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle0003" x="685" y="2104" width="350" height="476" frameX="-1" frameY="-9" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle0004" x="1035" y="2104" width="336" height="478" frameX="-8" frameY="-6" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle0005" x="1035" y="2104" width="336" height="478" frameX="-8" frameY="-6" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle0006" x="1372" y="2104" width="335" height="484" frameX="-8" frameY="-1" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle0007" x="1372" y="2104" width="335" height="484" frameX="-8" frameY="-1" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle0008" x="1708" y="2104" width="335" height="484" frameX="-8" frameY="0" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle0009" x="1708" y="2104" width="335" height="484" frameX="-8" frameY="0" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle0010" x="1708" y="2104" width="335" height="484" frameX="-8" frameY="0" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle0011" x="1708" y="2104" width="335" height="484" frameX="-8" frameY="0" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle0012" x="1708" y="2104" width="335" height="484" frameX="-8" frameY="0" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle0013" x="1708" y="2104" width="335" height="484" frameX="-8" frameY="0" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle No charles0000" x="2044" y="2104" width="350" height="475" frameX="0" frameY="-10" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle No charles0001" x="2044" y="2104" width="350" height="475" frameX="0" frameY="-9" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle No charles0002" x="2394" y="2104" width="350" height="476" frameX="-1" frameY="-9" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle No charles0003" x="2394" y="2104" width="350" height="476" frameX="-1" frameY="-9" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle No charles0004" x="2744" y="2104" width="336" height="478" frameX="-8" frameY="-6" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle No charles0005" x="2744" y="2104" width="336" height="478" frameX="-8" frameY="-6" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle No charles0006" x="0" y="2588" width="335" height="484" frameX="-8" frameY="-1" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle No charles0007" x="0" y="2588" width="335" height="484" frameX="-8" frameY="-1" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle No charles0008" x="335" y="2588" width="335" height="484" frameX="-8" frameY="0" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle No charles0009" x="335" y="2588" width="335" height="484" frameX="-8" frameY="0" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle No charles0010" x="335" y="2588" width="335" height="484" frameX="-8" frameY="0" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle No charles0011" x="335" y="2588" width="335" height="484" frameX="-8" frameY="0" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle No charles0012" x="335" y="2588" width="335" height="484" frameX="-8" frameY="0" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Idle No charles0013" x="335" y="2588" width="335" height="484" frameX="-8" frameY="0" frameWidth="345" frameHeight="480" />
+<SubTexture name="Henry Left0000" x="671" y="2588" width="432" height="471" frameX="0" frameY="-1" frameWidth="439" frameHeight="468" />
+<SubTexture name="Henry Left0001" x="671" y="2588" width="432" height="471" frameX="0" frameY="0" frameWidth="439" frameHeight="468" />
+<SubTexture name="Henry Left0002" x="1104" y="2588" width="433" height="465" frameX="-11" frameY="-7" frameWidth="439" frameHeight="468" />
+<SubTexture name="Henry Left0003" x="1104" y="2588" width="433" height="465" frameX="-11" frameY="-7" frameWidth="439" frameHeight="468" />
+<SubTexture name="Henry Left0004" x="1104" y="2588" width="433" height="465" frameX="-11" frameY="-7" frameWidth="439" frameHeight="468" />
+<SubTexture name="Henry Left0005" x="1104" y="2588" width="433" height="465" frameX="-11" frameY="-7" frameWidth="439" frameHeight="468" />
+<SubTexture name="Henry Miss Down0000" x="1537" y="2588" width="427" height="380" frameX="0" frameY="-21" frameWidth="423" frameHeight="397" />
+<SubTexture name="Henry Miss Left0000" x="1965" y="2588" width="428" height="431" frameX="-13" frameY="0" frameWidth="435" frameHeight="427" />
+<SubTexture name="Henry Miss Right0000" x="2393" y="2588" width="456" height="403" frameX="-11" frameY="0" frameWidth="462" frameHeight="399" />
+<SubTexture name="Henry Miss Up0000" x="2850" y="2588" width="340" height="480" frameX="-10" frameY="0" frameWidth="356" frameHeight="476" />
+<SubTexture name="Henry Right0000" x="3190" y="2588" width="449" height="436" frameX="-13" frameY="-1" frameWidth="456" frameHeight="432" />
+<SubTexture name="Henry Right0001" x="3190" y="2588" width="449" height="436" frameX="-13" frameY="0" frameWidth="456" frameHeight="432" />
+<SubTexture name="Henry Right0002" x="0" y="3073" width="460" height="429" frameX="0" frameY="-8" frameWidth="456" frameHeight="432" />
+<SubTexture name="Henry Right0003" x="0" y="3073" width="460" height="429" frameX="0" frameY="-8" frameWidth="456" frameHeight="432" />
+<SubTexture name="Henry Right0004" x="0" y="3073" width="460" height="429" frameX="0" frameY="-8" frameWidth="456" frameHeight="432" />
+<SubTexture name="Henry Right0005" x="0" y="3073" width="460" height="429" frameX="0" frameY="-8" frameWidth="456" frameHeight="432" />
+<SubTexture name="Henry Right0006" x="0" y="3073" width="460" height="429" frameX="0" frameY="-8" frameWidth="456" frameHeight="432" />
+<SubTexture name="Henry Right0007" x="0" y="3073" width="460" height="429" frameX="0" frameY="-8" frameWidth="456" frameHeight="432" />
+<SubTexture name="Henry Right0008" x="0" y="3073" width="460" height="429" frameX="0" frameY="-8" frameWidth="456" frameHeight="432" />
+<SubTexture name="Henry Right0009" x="0" y="3073" width="460" height="429" frameX="0" frameY="-8" frameWidth="456" frameHeight="432" />
+<SubTexture name="Henry Right0010" x="0" y="3073" width="460" height="429" frameX="0" frameY="-8" frameWidth="456" frameHeight="432" />
+<SubTexture name="Henry Right0011" x="0" y="3073" width="460" height="429" frameX="0" frameY="-8" frameWidth="456" frameHeight="432" />
+<SubTexture name="Henry Right0012" x="0" y="3073" width="460" height="429" frameX="0" frameY="-8" frameWidth="456" frameHeight="432" />
+<SubTexture name="Henry Right0013" x="0" y="3073" width="460" height="429" frameX="0" frameY="-8" frameWidth="456" frameHeight="432" />
+<SubTexture name="Henry Up0000" x="460" y="3073" width="356" height="482" frameX="-6" frameY="0" frameWidth="361" frameHeight="479" />
+<SubTexture name="Henry Up0001" x="460" y="3073" width="356" height="482" frameX="-6" frameY="0" frameWidth="361" frameHeight="479" />
+<SubTexture name="Henry Up0002" x="816" y="3073" width="366" height="475" frameX="0" frameY="-8" frameWidth="361" frameHeight="479" />
+<SubTexture name="Henry Up0003" x="816" y="3073" width="366" height="475" frameX="0" frameY="-8" frameWidth="361" frameHeight="479" />
+<SubTexture name="Henry Up0004" x="816" y="3073" width="366" height="475" frameX="0" frameY="-8" frameWidth="361" frameHeight="479" />
+<SubTexture name="Henry Up0005" x="816" y="3073" width="366" height="475" frameX="0" frameY="-8" frameWidth="361" frameHeight="479" />
+<SubTexture name="Henry Up0006" x="816" y="3073" width="366" height="475" frameX="0" frameY="-8" frameWidth="361" frameHeight="479" />
+<SubTexture name="Henry Up0007" x="816" y="3073" width="366" height="475" frameX="0" frameY="-8" frameWidth="361" frameHeight="479" />
+<SubTexture name="Henry Up0008" x="816" y="3073" width="366" height="475" frameX="0" frameY="-8" frameWidth="361" frameHeight="479" />
+<SubTexture name="Henry Up0009" x="816" y="3073" width="366" height="475" frameX="0" frameY="-8" frameWidth="361" frameHeight="479" />
+<SubTexture name="Henry Up0010" x="816" y="3073" width="366" height="475" frameX="0" frameY="-8" frameWidth="361" frameHeight="479" />
+<SubTexture name="Henry Up0011" x="816" y="3073" width="366" height="475" frameX="0" frameY="-8" frameWidth="361" frameHeight="479" />
+<SubTexture name="Henry Up0012" x="816" y="3073" width="366" height="475" frameX="0" frameY="-8" frameWidth="361" frameHeight="479" />
+<SubTexture name="Henry Up0013" x="816" y="3073" width="366" height="475" frameX="0" frameY="-8" frameWidth="361" frameHeight="479" />
+</TextureAtlas>

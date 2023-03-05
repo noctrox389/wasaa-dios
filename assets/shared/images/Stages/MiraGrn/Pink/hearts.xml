@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hearts.png">
+<SubTexture name="Symbol 0000" x="611" y="0" width="611" height="172" frameX="-24" frameY="-545" frameWidth="655" frameHeight="750" />
+<SubTexture name="Symbol 0001" x="611" y="0" width="611" height="172" frameX="-24" frameY="-545" frameWidth="655" frameHeight="750" />
+<SubTexture name="Symbol 0002" x="611" y="0" width="611" height="172" frameX="-24" frameY="-545" frameWidth="655" frameHeight="750" />
+<SubTexture name="Symbol 0003" x="0" y="0" width="611" height="175" frameX="-24" frameY="-543" frameWidth="655" frameHeight="750" />
+<SubTexture name="Symbol 0004" x="0" y="0" width="611" height="175" frameX="-24" frameY="-543" frameWidth="655" frameHeight="750" />
+<SubTexture name="Symbol 0005" x="0" y="0" width="611" height="175" frameX="-24" frameY="-543" frameWidth="655" frameHeight="750" />
+</TextureAtlas>

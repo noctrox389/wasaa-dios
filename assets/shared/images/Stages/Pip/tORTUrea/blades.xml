@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blades.png">
+<SubTexture name="blades0000" x="1038" y="0" width="251" height="602" frameX="-2" frameY="-2" frameWidth="269" frameHeight="611" />
+<SubTexture name="blades0001" x="516" y="607" width="259" height="589" frameX="-2" frameY="-2" frameWidth="269" frameHeight="611" />
+<SubTexture name="blades0002" x="265" y="0" width="269" height="605" frameX="0" frameY="0" frameWidth="269" frameHeight="611" />
+<SubTexture name="blades0003" x="0" y="607" width="257" height="601" frameX="0" frameY="0" frameWidth="269" frameHeight="611" />
+<SubTexture name="blades0004" x="534" y="0" width="251" height="604" frameX="-6" frameY="-6" frameWidth="269" frameHeight="611" />
+<SubTexture name="blades0005" x="257" y="607" width="259" height="592" frameX="-6" frameY="-6" frameWidth="269" frameHeight="611" />
+<SubTexture name="blades0006" x="0" y="0" width="265" height="607" frameX="-4" frameY="-2" frameWidth="269" frameHeight="611" />
+<SubTexture name="blades0007" x="785" y="0" width="253" height="603" frameX="-4" frameY="-2" frameWidth="269" frameHeight="611" />
+</TextureAtlas>

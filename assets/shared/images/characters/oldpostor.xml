@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="oldpostor.png">
+<SubTexture name="Impostor Backwards0000" x="2034" y="0" width="866" height="406" frameX="300" frameY="-330" frameWidth="488" frameHeight="1000" />
+<SubTexture name="Impostor Backwards0001" x="2034" y="406" width="859" height="406" frameX="287" frameY="-330" frameWidth="488" frameHeight="1000" />
+<SubTexture name="Impostor Down0000" x="1797" y="1817" width="854" height="368" frameX="300" frameY="-330" frameWidth="736" frameHeight="1292" />
+<SubTexture name="Impostor Down0001" x="0" y="2201" width="837" height="347" frameX="274" frameY="-351" frameWidth="736" frameHeight="1292" />
+<SubTexture name="Impostor Forward0000" x="2034" y="812" width="670" height="406" frameX="197" frameY="-330" frameWidth="459" frameHeight="476" />
+<SubTexture name="Impostor Forward0001" x="2034" y="1218" width="651" height="405" frameX="200" frameY="-330" frameWidth="459" frameHeight="476" />
+<SubTexture name="Impostor Idle0000" x="0" y="474" width="763" height="452" frameX="214" frameY="-331" frameWidth="453" frameHeight="475" />
+<SubTexture name="Impostor Idle0001" x="0" y="1377" width="810" height="440" frameX="227" frameY="-337" frameWidth="453" frameHeight="475" />
+<SubTexture name="Impostor Idle0002" x="0" y="1817" width="883" height="384" frameX="284" frameY="-361" frameWidth="453" frameHeight="475" />
+<SubTexture name="Impostor Idle0003" x="883" y="1817" width="914" height="372" frameX="300" frameY="-372" frameWidth="453" frameHeight="475" />
+<SubTexture name="Impostor Idle0004" x="810" y="1377" width="752" height="421" frameX="192" frameY="-347" frameWidth="453" frameHeight="475" />
+<SubTexture name="Impostor Idle0005" x="646" y="0" width="745" height="458" frameX="204" frameY="-330" frameWidth="453" frameHeight="475" />
+<SubTexture name="Impostor Idle0006" x="0" y="926" width="769" height="451" frameX="220" frameY="-331" frameWidth="453" frameHeight="475" />
+<SubTexture name="Impostor Up0000" x="0" y="0" width="646" height="474" frameX="100" frameY="-330" frameWidth="433" frameHeight="1000" />
+<SubTexture name="Impostor Up0001" x="1391" y="0" width="643" height="449" frameX="93" frameY="-355" frameWidth="433" frameHeight="1000" />
+</TextureAtlas>

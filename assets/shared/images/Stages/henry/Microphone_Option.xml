@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Microphone_Option.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Microphone0000" x="13" y="13" width="399" height="336"/>
+	<SubTexture name="Select Microphone0000" x="425" y="13" width="399" height="324" frameX="0" frameY="-7" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0001" x="425" y="13" width="399" height="324" frameX="0" frameY="-7" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0002" x="13" y="362" width="399" height="331"/>
+	<SubTexture name="Select Microphone0003" x="13" y="362" width="399" height="331"/>
+	<SubTexture name="Select Microphone0004" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0005" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0006" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0007" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0008" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0009" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0010" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0011" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0012" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0013" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0014" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0015" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0016" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0017" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0018" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+	<SubTexture name="Select Microphone0019" x="425" y="362" width="399" height="330" frameX="0" frameY="-1" frameWidth="399" frameHeight="331"/>
+</TextureAtlas>

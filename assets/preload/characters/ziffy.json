@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-33
+			],
+			"anim": "idle",
+			"fps": 28,
+			"name": "Ziffy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-65
+			],
+			"anim": "singLEFT",
+			"fps": 28,
+			"name": "Ziffy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-49
+			],
+			"anim": "singRIGHT",
+			"fps": 28,
+			"name": "Ziffy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ziffy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ziffy up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ziffyfnf",
+	"position": [
+		40,
+		-130
+	],
+	"healthicon": "ziffy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		153,
+		51
+	],
+	"camera_position": [
+		0,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

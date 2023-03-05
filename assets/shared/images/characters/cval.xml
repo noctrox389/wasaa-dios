@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cval.png">
+<SubTexture name="Cval Down0000" x="2773" y="2864" width="743" height="644" frameX="0" frameY="-19" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Down0001" x="2773" y="2864" width="743" height="644" frameX="0" frameY="-19" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Down0002" x="1291" y="2864" width="741" height="650" frameX="-5" frameY="-2" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Down0003" x="1291" y="2864" width="741" height="650" frameX="-5" frameY="-2" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Down0004" x="2032" y="2864" width="741" height="650" frameX="-5" frameY="0" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Down0005" x="2032" y="2864" width="741" height="650" frameX="-5" frameY="0" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Down0006" x="2032" y="2864" width="741" height="650" frameX="-5" frameY="0" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Down0007" x="2032" y="2864" width="741" height="650" frameX="-5" frameY="0" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Down0008" x="2032" y="2864" width="741" height="650" frameX="-5" frameY="0" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Down0009" x="2032" y="2864" width="741" height="650" frameX="-5" frameY="0" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Down0010" x="2032" y="2864" width="741" height="650" frameX="-5" frameY="0" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Down0011" x="2032" y="2864" width="741" height="650" frameX="-5" frameY="0" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Down0012" x="2032" y="2864" width="741" height="650" frameX="-5" frameY="0" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Down0013" x="2032" y="2864" width="741" height="650" frameX="-5" frameY="0" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Down0014" x="2032" y="2864" width="741" height="650" frameX="-5" frameY="0" frameWidth="742" frameHeight="659" />
+<SubTexture name="Cval Hi pip0000" x="3050" y="0" width="691" height="676" frameX="-7" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Hi pip0001" x="3050" y="0" width="691" height="676" frameX="-7" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Hi pip0002" x="3050" y="676" width="683" height="676" frameX="0" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Hi pip0003" x="3050" y="1352" width="665" height="676" frameX="-18" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Hi pip0004" x="3050" y="2028" width="648" height="676" frameX="-34" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Hi pip0005" x="3050" y="2028" width="648" height="676" frameX="-34" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Hi pip0006" x="0" y="2864" width="646" height="676" frameX="-36" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Hi pip0007" x="0" y="2864" width="646" height="676" frameX="-36" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Hi pip0008" x="646" y="2864" width="645" height="676" frameX="-37" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Hi pip0009" x="646" y="2864" width="645" height="676" frameX="-37" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Hi pip0010" x="646" y="2864" width="645" height="676" frameX="-37" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Hi pip0011" x="646" y="2864" width="645" height="676" frameX="-37" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Hi pip0012" x="646" y="2864" width="645" height="676" frameX="-37" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Hi pip0013" x="646" y="2864" width="645" height="676" frameX="-37" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Hi pip0014" x="646" y="2864" width="645" height="676" frameX="-37" frameY="0" frameWidth="695" frameHeight="672" />
+<SubTexture name="Cval Idle0000" x="1464" y="2173" width="781" height="687" frameX="0" frameY="-9" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Idle0001" x="1464" y="2173" width="781" height="687" frameX="0" frameY="-8" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Idle0002" x="2245" y="2173" width="776" height="683" frameX="-4" frameY="-9" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Idle0003" x="2245" y="2173" width="776" height="683" frameX="-4" frameY="-8" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Idle0004" x="0" y="2173" width="745" height="691" frameX="-4" frameY="-1" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Idle0005" x="0" y="2173" width="745" height="691" frameX="-4" frameY="-1" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Idle0006" x="1555" y="1453" width="719" height="691" frameX="-2" frameY="0" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Idle0007" x="1555" y="1453" width="719" height="691" frameX="-2" frameY="0" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Idle0008" x="745" y="2173" width="719" height="691" frameX="-2" frameY="0" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Idle0009" x="745" y="2173" width="719" height="691" frameX="-2" frameY="0" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Idle0010" x="745" y="2173" width="719" height="691" frameX="-2" frameY="0" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Idle0011" x="745" y="2173" width="719" height="691" frameX="-2" frameY="0" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Idle0012" x="745" y="2173" width="719" height="691" frameX="-2" frameY="0" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Idle0013" x="2290" y="1398" width="718" height="692" frameX="-2" frameY="-3" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Idle0014" x="2290" y="1398" width="718" height="692" frameX="-2" frameY="-3" frameWidth="777" frameHeight="692" />
+<SubTexture name="Cval Left0000" x="1580" y="722" width="706" height="714" frameX="0" frameY="-1" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Left0001" x="1580" y="722" width="706" height="714" frameX="0" frameY="-1" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Left0002" x="0" y="730" width="709" height="723" frameX="-2" frameY="0" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Left0003" x="0" y="730" width="709" height="723" frameX="-2" frameY="0" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Left0004" x="709" y="730" width="710" height="722" frameX="-3" frameY="0" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Left0005" x="709" y="730" width="710" height="722" frameX="-3" frameY="0" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Left0006" x="1580" y="0" width="710" height="722" frameX="-3" frameY="0" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Left0007" x="1580" y="0" width="710" height="722" frameX="-3" frameY="0" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Left0008" x="1580" y="0" width="710" height="722" frameX="-3" frameY="0" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Left0009" x="1580" y="0" width="710" height="722" frameX="-3" frameY="0" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Left0010" x="1580" y="0" width="710" height="722" frameX="-3" frameY="0" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Left0011" x="1580" y="0" width="710" height="722" frameX="-3" frameY="0" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Left0012" x="1580" y="0" width="710" height="722" frameX="-3" frameY="0" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Left0013" x="1580" y="0" width="710" height="722" frameX="-3" frameY="0" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Left0014" x="1580" y="0" width="710" height="722" frameX="-3" frameY="0" frameWidth="709" frameHeight="720" />
+<SubTexture name="Cval Right0000" x="763" y="1453" width="792" height="713" frameX="-12" frameY="-7" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Right0001" x="763" y="1453" width="792" height="713" frameX="-12" frameY="-7" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Right0002" x="789" y="0" width="791" height="729" frameX="0" frameY="0" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Right0003" x="789" y="0" width="791" height="729" frameX="0" frameY="0" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Right0004" x="0" y="0" width="789" height="730" frameX="0" frameY="0" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Right0005" x="0" y="0" width="789" height="730" frameX="0" frameY="0" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Right0006" x="0" y="0" width="789" height="730" frameX="0" frameY="0" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Right0007" x="0" y="0" width="789" height="730" frameX="0" frameY="0" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Right0008" x="0" y="0" width="789" height="730" frameX="0" frameY="0" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Right0009" x="0" y="0" width="789" height="730" frameX="0" frameY="0" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Right0010" x="0" y="0" width="789" height="730" frameX="0" frameY="0" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Right0011" x="0" y="0" width="789" height="730" frameX="0" frameY="0" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Right0012" x="0" y="0" width="789" height="730" frameX="0" frameY="0" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Right0013" x="0" y="0" width="789" height="730" frameX="0" frameY="0" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Right0014" x="0" y="0" width="789" height="730" frameX="0" frameY="0" frameWidth="801" frameHeight="726" />
+<SubTexture name="Cval Up0000" x="0" y="1453" width="763" height="720" frameX="0" frameY="0" frameWidth="760" frameHeight="716" />
+<SubTexture name="Cval Up0001" x="0" y="1453" width="763" height="720" frameX="0" frameY="0" frameWidth="760" frameHeight="716" />
+<SubTexture name="Cval Up0002" x="2290" y="0" width="760" height="700" frameX="-3" frameY="-20" frameWidth="760" frameHeight="716" />
+<SubTexture name="Cval Up0003" x="2290" y="0" width="760" height="700" frameX="-3" frameY="-20" frameWidth="760" frameHeight="716" />
+<SubTexture name="Cval Up0004" x="2290" y="700" width="759" height="698" frameX="-3" frameY="-22" frameWidth="760" frameHeight="716" />
+<SubTexture name="Cval Up0005" x="2290" y="700" width="759" height="698" frameX="-3" frameY="-22" frameWidth="760" frameHeight="716" />
+<SubTexture name="Cval Up0006" x="2290" y="700" width="759" height="698" frameX="-3" frameY="-22" frameWidth="760" frameHeight="716" />
+<SubTexture name="Cval Up0007" x="2290" y="700" width="759" height="698" frameX="-3" frameY="-22" frameWidth="760" frameHeight="716" />
+<SubTexture name="Cval Up0008" x="2290" y="700" width="759" height="698" frameX="-3" frameY="-22" frameWidth="760" frameHeight="716" />
+<SubTexture name="Cval Up0009" x="2290" y="700" width="759" height="698" frameX="-3" frameY="-22" frameWidth="760" frameHeight="716" />
+<SubTexture name="Cval Up0010" x="2290" y="700" width="759" height="698" frameX="-3" frameY="-22" frameWidth="760" frameHeight="716" />
+<SubTexture name="Cval Up0011" x="2290" y="700" width="759" height="698" frameX="-3" frameY="-22" frameWidth="760" frameHeight="716" />
+<SubTexture name="Cval Up0012" x="2290" y="700" width="759" height="698" frameX="-3" frameY="-22" frameWidth="760" frameHeight="716" />
+<SubTexture name="Cval Up0013" x="2290" y="700" width="759" height="698" frameX="-3" frameY="-22" frameWidth="760" frameHeight="716" />
+<SubTexture name="Cval Up0014" x="2290" y="700" width="759" height="698" frameX="-3" frameY="-22" frameWidth="760" frameHeight="716" />
+</TextureAtlas>

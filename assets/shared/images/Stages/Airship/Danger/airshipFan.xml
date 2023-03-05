@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="airshipFan.png">
+	
+	
+	<SubTexture name="ala avion instance 10000" x="8" y="8" width="516" height="297" pivotX="1398.75" pivotY="2050.3" />
+	<SubTexture name="ala avion instance 10001" x="533" y="8" width="516" height="297" />
+	<SubTexture name="ala avion instance 10002" x="1058" y="8" width="516" height="297" />
+	<SubTexture name="ala avion instance 10003" x="1584" y="8" width="516" height="297" />
+	<SubTexture name="ala avion instance 10004" x="8" y="314" width="516" height="297" />
+	<SubTexture name="ala avion instance 10005" x="533" y="314" width="516" height="297" />
+	<SubTexture name="ala avion instance 10006" x="1058" y="314" width="516" height="297" />
+	<SubTexture name="ala avion instance 10007" x="1584" y="314" width="516" height="297" />
+	<SubTexture name="ala avion instance 10008" x="8" y="620" width="516" height="297" />
+	<SubTexture name="ala avion instance 10009" x="533" y="620" width="516" height="297" />
+	<SubTexture name="ala avion instance 10010" x="1058" y="620" width="516" height="297" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="loggoattack.png">
+<SubTexture name="loggfriend0000" x="1542" y="0" width="514" height="585" frameX="0" frameY="-21" frameWidth="510" frameHeight="602" />
+<SubTexture name="loggfriend0001" x="1542" y="585" width="514" height="585" frameX="0" frameY="-21" frameWidth="510" frameHeight="602" />
+<SubTexture name="loggfriend0002" x="0" y="1209" width="514" height="580" frameX="0" frameY="-26" frameWidth="510" frameHeight="602" />
+<SubTexture name="loggfriend0003" x="514" y="1209" width="514" height="580" frameX="0" frameY="-26" frameWidth="510" frameHeight="602" />
+<SubTexture name="loggfriend0004" x="514" y="606" width="514" height="597" frameX="0" frameY="-9" frameWidth="510" frameHeight="602" />
+<SubTexture name="loggfriend0005" x="1028" y="606" width="514" height="597" frameX="0" frameY="-9" frameWidth="510" frameHeight="602" />
+<SubTexture name="loggfriend0006" x="1028" y="0" width="514" height="603" frameX="0" frameY="-3" frameWidth="510" frameHeight="602" />
+<SubTexture name="loggfriend0007" x="0" y="606" width="514" height="603" frameX="0" frameY="-3" frameWidth="510" frameHeight="602" />
+<SubTexture name="loggfriend0008" x="0" y="0" width="514" height="606" frameX="0" frameY="0" frameWidth="510" frameHeight="602" />
+<SubTexture name="loggfriend0009" x="514" y="0" width="514" height="606" frameX="0" frameY="0" frameWidth="510" frameHeight="602" />
+<SubTexture name="loggfriend0010" x="0" y="0" width="514" height="606" frameX="0" frameY="0" frameWidth="510" frameHeight="602" />
+<SubTexture name="loggfriend0011" x="514" y="0" width="514" height="606" frameX="0" frameY="0" frameWidth="510" frameHeight="602" />
+<SubTexture name="loggfriend0012" x="0" y="0" width="514" height="606" frameX="0" frameY="0" frameWidth="510" frameHeight="602" />
+<SubTexture name="loggfriend0013" x="514" y="0" width="514" height="606" frameX="0" frameY="0" frameWidth="510" frameHeight="602" />
+</TextureAtlas>

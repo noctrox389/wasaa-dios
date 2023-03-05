@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dialogueBox.png">
+<SubTexture name="bf0000" x="0" y="0" width="1001" height="468" frameX="0" frameY="0" frameWidth="997" frameHeight="473" />
+<SubTexture name="gf0000" x="1001" y="0" width="1001" height="468" frameX="0" frameY="0" frameWidth="997" frameHeight="473" />
+<SubTexture name="dad10000" x="0" y="468" width="1001" height="468" frameX="0" frameY="0" frameWidth="997" frameHeight="473" />
+<SubTexture name="dad20000" x="1001" y="468" width="1001" height="468" frameX="0" frameY="0" frameWidth="997" frameHeight="473" />
+<SubTexture name="dad30000" x="0" y="936" width="1001" height="468" frameX="0" frameY="0" frameWidth="997" frameHeight="473" />
+<SubTexture name="dad40000" x="1001" y="936" width="1001" height="468" frameX="0" frameY="0" frameWidth="997" frameHeight="473" />
+<SubTexture name="dad50000" x="0" y="1404" width="1001" height="468" frameX="0" frameY="0" frameWidth="997" frameHeight="473" />
+<SubTexture name="dad60000" x="1001" y="1404" width="1001" height="468" frameX="0" frameY="0" frameWidth="997" frameHeight="473" />
+<SubTexture name="dad70000" x="0" y="1872" width="1001" height="468" frameX="0" frameY="0" frameWidth="997" frameHeight="473" />
+</TextureAtlas>

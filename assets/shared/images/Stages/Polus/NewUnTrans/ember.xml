@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ember.png">
+	
+	
+	<SubTexture name="ember0000" x="0" y="0" width="40" height="40" frameX="-2" frameY="-1" frameWidth="43" frameHeight="42" />
+	<SubTexture name="ember0001" x="0" y="0" width="40" height="40" frameX="-2" frameY="-1" frameWidth="43" frameHeight="42" />
+	<SubTexture name="ember0002" x="0" y="43" width="43" height="41" frameX="0" frameY="-1" frameWidth="43" frameHeight="42" />
+	<SubTexture name="ember0003" x="0" y="43" width="43" height="41" frameX="0" frameY="-1" frameWidth="43" frameHeight="42" />
+	<SubTexture name="ember0004" x="0" y="86" width="42" height="41" frameX="-1" frameY="-1" frameWidth="43" frameHeight="42" />
+	<SubTexture name="ember0005" x="0" y="86" width="42" height="41" frameX="-1" frameY="-1" frameWidth="43" frameHeight="42" />
+	<SubTexture name="ember0006" x="0" y="130" width="43" height="42" frameX="-1" frameY="0" frameWidth="43" frameHeight="42" />
+	<SubTexture name="ember0007" x="0" y="130" width="43" height="42" frameX="-1" frameY="0" frameWidth="43" frameHeight="42" />
+	<SubTexture name="ember0008" x="0" y="175" width="42" height="41" frameX="-1" frameY="-1" frameWidth="43" frameHeight="42" />
+	<SubTexture name="ember0009" x="0" y="175" width="42" height="41" frameX="-1" frameY="-1" frameWidth="43" frameHeight="42" />
+</TextureAtlas>

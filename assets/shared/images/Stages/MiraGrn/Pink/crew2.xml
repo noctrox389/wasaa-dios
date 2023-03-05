@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crew2.png">
+<SubTexture name="tomatomongus0000" x="1408" y="0" width="481" height="531" frameX="-2" frameY="-9" frameWidth="483" frameHeight="540" />
+<SubTexture name="tomatomongus0001" x="1408" y="0" width="481" height="531" frameX="-2" frameY="-9" frameWidth="483" frameHeight="540" />
+<SubTexture name="tomatomongus0002" x="0" y="1076" width="483" height="529" frameX="0" frameY="-11" frameWidth="483" frameHeight="540" />
+<SubTexture name="tomatomongus0003" x="0" y="1076" width="483" height="529" frameX="0" frameY="-11" frameWidth="483" frameHeight="540" />
+<SubTexture name="tomatomongus0004" x="473" y="539" width="479" height="532" frameX="-2" frameY="-8" frameWidth="483" frameHeight="540" />
+<SubTexture name="tomatomongus0005" x="473" y="539" width="479" height="532" frameX="-2" frameY="-8" frameWidth="483" frameHeight="540" />
+<SubTexture name="tomatomongus0006" x="0" y="539" width="473" height="537" frameX="-6" frameY="-2" frameWidth="483" frameHeight="540" />
+<SubTexture name="tomatomongus0007" x="0" y="539" width="473" height="537" frameX="-6" frameY="-2" frameWidth="483" frameHeight="540" />
+<SubTexture name="tomatomongus0008" x="0" y="0" width="470" height="539" frameX="-9" frameY="0" frameWidth="483" frameHeight="540" />
+<SubTexture name="tomatomongus0009" x="0" y="0" width="470" height="539" frameX="-9" frameY="0" frameWidth="483" frameHeight="540" />
+<SubTexture name="tomatomongus0010" x="470" y="0" width="469" height="539" frameX="-10" frameY="0" frameWidth="483" frameHeight="540" />
+<SubTexture name="tomatomongus0011" x="470" y="0" width="469" height="539" frameX="-10" frameY="0" frameWidth="483" frameHeight="540" />
+<SubTexture name="tomatomongus0012" x="939" y="0" width="469" height="539" frameX="-10" frameY="0" frameWidth="483" frameHeight="540" />
+<SubTexture name="tomatomongus0013" x="939" y="0" width="469" height="539" frameX="-10" frameY="0" frameWidth="483" frameHeight="540" />
+</TextureAtlas>

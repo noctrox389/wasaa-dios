@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Boppers.png">
+<SubTexture name="saster0000" x="390" y="584" width="393" height="580" frameX="0" frameY="-4" frameWidth="397" frameHeight="580" />
+<SubTexture name="saster0001" x="390" y="584" width="393" height="580" frameX="0" frameY="-4" frameWidth="397" frameHeight="580" />
+<SubTexture name="saster0002" x="0" y="0" width="395" height="584" frameX="-1" frameY="0" frameWidth="397" frameHeight="580" />
+<SubTexture name="saster0003" x="0" y="0" width="395" height="584" frameX="-1" frameY="0" frameWidth="397" frameHeight="580" />
+<SubTexture name="saster0004" x="395" y="0" width="393" height="584" frameX="-3" frameY="0" frameWidth="397" frameHeight="580" />
+<SubTexture name="saster0005" x="395" y="0" width="393" height="584" frameX="-3" frameY="0" frameWidth="397" frameHeight="580" />
+<SubTexture name="saster0006" x="788" y="0" width="390" height="582" frameX="-10" frameY="-2" frameWidth="397" frameHeight="580" />
+<SubTexture name="saster0007" x="788" y="0" width="390" height="582" frameX="-10" frameY="-2" frameWidth="397" frameHeight="580" />
+<SubTexture name="saster0008" x="0" y="584" width="390" height="581" frameX="-10" frameY="-3" frameWidth="397" frameHeight="580" />
+<SubTexture name="saster0009" x="0" y="584" width="390" height="581" frameX="-10" frameY="-3" frameWidth="397" frameHeight="580" />
+<SubTexture name="saster0010" x="0" y="584" width="390" height="581" frameX="-10" frameY="-3" frameWidth="397" frameHeight="580" />
+<SubTexture name="saster0011" x="0" y="584" width="390" height="581" frameX="-10" frameY="-3" frameWidth="397" frameHeight="580" />
+<SubTexture name="saster0012" x="0" y="584" width="390" height="581" frameX="-10" frameY="-3" frameWidth="397" frameHeight="580" />
+<SubTexture name="saster0013" x="0" y="584" width="390" height="581" frameX="-10" frameY="-3" frameWidth="397" frameHeight="580" />
+<SubTexture name="saster0014" x="0" y="584" width="390" height="581" frameX="-10" frameY="-3" frameWidth="397" frameHeight="580" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfshock.png">
+<SubTexture name="BF idle dance instance 0000" x="415" y="0" width="414" height="419" frameX="-1" frameY="-2" frameWidth="409" frameHeight="416" />
+<SubTexture name="BF idle dance instance 0001" x="829" y="0" width="415" height="419" frameX="0" frameY="-2" frameWidth="409" frameHeight="416" />
+<SubTexture name="BF idle dance instance 0002" x="0" y="421" width="414" height="419" frameX="-1" frameY="-2" frameWidth="409" frameHeight="416" />
+<SubTexture name="BF idle dance instance 0003" x="0" y="0" width="415" height="421" frameX="0" frameY="-1" frameWidth="409" frameHeight="416" />
+<SubTexture name="BF idle dance instance 0004" x="414" y="421" width="414" height="419" frameX="-1" frameY="-2" frameWidth="409" frameHeight="416" />
+<SubTexture name="BF idle dance instance 0005" x="828" y="421" width="414" height="419" frameX="-1" frameY="-2" frameWidth="409" frameHeight="416" />
+</TextureAtlas>

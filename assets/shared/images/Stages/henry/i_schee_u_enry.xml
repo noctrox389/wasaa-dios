@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="i_schee_u_enry.png">
+<SubTexture name="rhm intro shadow0000" x="1337" y="0" width="760" height="465" frameX="0" frameY="0" frameWidth="1786" frameHeight="1313" />
+<SubTexture name="rhm intro shadow0001" x="0" y="0" width="700" height="642" frameX="-867" frameY="-598" frameWidth="1786" frameHeight="1313" />
+<SubTexture name="rhm intro shadow0002" x="700" y="0" width="637" height="565" frameX="-1148" frameY="-750" frameWidth="1786" frameHeight="1313" />
+<SubTexture name="rhm intro shadow0003" x="0" y="642" width="633" height="563" frameX="-1154" frameY="-751" frameWidth="1786" frameHeight="1313" />
+</TextureAtlas>

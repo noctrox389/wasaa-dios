@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cooper.png">
+<SubTexture name="bg seat 1 instance 0000" x="0" y="647" width="682" height="645" frameX="0" frameY="-2" frameWidth="679" frameHeight="643" />
+<SubTexture name="bg seat 1 instance 0001" x="0" y="647" width="682" height="645" frameX="0" frameY="-2" frameWidth="679" frameHeight="643" />
+<SubTexture name="bg seat 1 instance 0002" x="682" y="647" width="682" height="644" frameX="0" frameY="-3" frameWidth="679" frameHeight="643" />
+<SubTexture name="bg seat 1 instance 0003" x="682" y="647" width="682" height="644" frameX="0" frameY="-3" frameWidth="679" frameHeight="643" />
+<SubTexture name="bg seat 1 instance 0004" x="0" y="0" width="682" height="647" frameX="0" frameY="0" frameWidth="679" frameHeight="643" />
+<SubTexture name="bg seat 1 instance 0005" x="0" y="0" width="682" height="647" frameX="0" frameY="0" frameWidth="679" frameHeight="643" />
+<SubTexture name="bg seat 1 instance 0006" x="682" y="0" width="682" height="647" frameX="0" frameY="0" frameWidth="679" frameHeight="643" />
+<SubTexture name="bg seat 1 instance 0007" x="682" y="0" width="682" height="647" frameX="0" frameY="0" frameWidth="679" frameHeight="643" />
+<SubTexture name="bg seat 1 instance 0008" x="682" y="0" width="682" height="647" frameX="0" frameY="0" frameWidth="679" frameHeight="643" />
+<SubTexture name="bg seat 1 instance 0009" x="682" y="0" width="682" height="647" frameX="0" frameY="0" frameWidth="679" frameHeight="643" />
+<SubTexture name="bg seat 1 instance 0010" x="682" y="0" width="682" height="647" frameX="0" frameY="0" frameWidth="679" frameHeight="643" />
+<SubTexture name="bg seat 1 instance 0011" x="682" y="0" width="682" height="647" frameX="0" frameY="0" frameWidth="679" frameHeight="643" />
+<SubTexture name="bg seat 1 instance 0012" x="682" y="0" width="682" height="647" frameX="0" frameY="0" frameWidth="679" frameHeight="643" />
+<SubTexture name="bg seat 1 instance 0013" x="682" y="0" width="682" height="647" frameX="0" frameY="0" frameWidth="679" frameHeight="643" />
+</TextureAtlas>

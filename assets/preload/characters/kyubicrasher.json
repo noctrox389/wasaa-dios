@@ -1,0 +1,150 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "coryidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "coryleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "coryright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "corydown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				12,
+				13
+			],
+			"name": "coryidle"
+		},
+		{
+			"offsets": [
+				-12,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				7,
+				8
+			],
+			"name": "coryleft"
+		},
+		{
+			"offsets": [
+				-56,
+				59
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "coryup"
+		},
+		{
+			"offsets": [
+				-33,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				7,
+				8
+			],
+			"name": "coryright"
+		},
+		{
+			"offsets": [
+				-4,
+				-27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				7,
+				8
+			],
+			"name": "corydown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				59
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "coryup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kyubi",
+	"position": [
+		0,
+		-90
+	],
+	"healthicon": "kyubi",
+	"flip_x": false,
+	"healthbar_colors": [
+		126,
+		73,
+		178
+	],
+	"camera_position": [
+		-185,
+		190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

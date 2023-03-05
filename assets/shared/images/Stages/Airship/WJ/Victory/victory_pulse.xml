@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="victory_pulse.png">
+<SubTexture name="animatedlight instance 0000" x="0" y="0" width="1218" height="511" frameX="-62" frameY="-34" frameWidth="1333" frameHeight="568" />
+<SubTexture name="animatedlight instance 0001" x="1218" y="0" width="1218" height="511" frameX="-62" frameY="-34" frameWidth="1333" frameHeight="568" />
+<SubTexture name="animatedlight instance 0002" x="0" y="511" width="1218" height="511" frameX="-62" frameY="-34" frameWidth="1333" frameHeight="568" />
+<SubTexture name="animatedlight instance 0003" x="1218" y="511" width="1218" height="511" frameX="-62" frameY="-34" frameWidth="1333" frameHeight="568" />
+<SubTexture name="animatedlight instance 0004" x="0" y="1022" width="1218" height="511" frameX="-62" frameY="-34" frameWidth="1333" frameHeight="568" />
+<SubTexture name="animatedlight instance 0005" x="1218" y="1022" width="1218" height="511" frameX="-62" frameY="-34" frameWidth="1333" frameHeight="568" />
+<SubTexture name="animatedlight instance 0006" x="0" y="1533" width="1218" height="511" frameX="-62" frameY="-34" frameWidth="1333" frameHeight="568" />
+<SubTexture name="animatedlight instance 0007" x="1218" y="1533" width="1206" height="499" frameX="-68" frameY="-40" frameWidth="1333" frameHeight="568" />
+<SubTexture name="animatedlight instance 0008" x="0" y="2044" width="1206" height="499" frameX="-68" frameY="-40" frameWidth="1333" frameHeight="568" />
+<SubTexture name="animatedlight instance 0009" x="1206" y="2044" width="1206" height="499" frameX="-68" frameY="-40" frameWidth="1333" frameHeight="568" />
+<SubTexture name="animatedlight instance 0010" x="0" y="2543" width="1206" height="499" frameX="-68" frameY="-40" frameWidth="1333" frameHeight="568" />
+</TextureAtlas>

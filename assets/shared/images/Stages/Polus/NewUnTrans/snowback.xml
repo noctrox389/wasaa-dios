@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="snowback.png">
+<SubTexture name="Snow group instance 0000" x="2125" y="494" width="654" height="245" frameX="-43" frameY="-3" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0001" x="2125" y="739" width="653" height="245" frameX="-43" frameY="-3" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0002" x="1422" y="260" width="670" height="255" frameX="-33" frameY="-3" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0003" x="1438" y="1571" width="670" height="251" frameX="-33" frameY="-7" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0004" x="0" y="1825" width="670" height="251" frameX="-33" frameY="-7" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0005" x="0" y="530" width="687" height="261" frameX="-26" frameY="-7" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0006" x="1422" y="771" width="687" height="255" frameX="-26" frameY="-13" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0007" x="1422" y="1026" width="687" height="255" frameX="-26" frameY="-13" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0008" x="0" y="0" width="703" height="265" frameX="-18" frameY="-13" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0009" x="0" y="791" width="702" height="260" frameX="-18" frameY="-18" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0010" x="702" y="791" width="703" height="260" frameX="-18" frameY="-18" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0011" x="0" y="1051" width="719" height="260" frameX="-10" frameY="-18" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0012" x="719" y="1571" width="719" height="252" frameX="-10" frameY="-25" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0013" x="703" y="0" width="719" height="264" frameX="-10" frameY="-14" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0014" x="1377" y="2077" width="720" height="227" frameX="-16" frameY="-14" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0015" x="0" y="2309" width="728" height="227" frameX="-8" frameY="-14" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0016" x="707" y="2537" width="729" height="210" frameX="-8" frameY="-16" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0017" x="1457" y="2309" width="707" height="216" frameX="-8" frameY="-16" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0018" x="2125" y="1474" width="688" height="232" frameX="0" frameY="0" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0019" x="2125" y="1706" width="688" height="232" frameX="0" frameY="0" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0020" x="2125" y="0" width="697" height="247" frameX="0" frameY="0" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0021" x="2125" y="984" width="654" height="245" frameX="-43" frameY="-3" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0022" x="2125" y="1229" width="655" height="245" frameX="-43" frameY="-3" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0023" x="1422" y="515" width="670" height="255" frameX="-33" frameY="-3" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0024" x="670" y="1825" width="670" height="251" frameX="-33" frameY="-7" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0025" x="1341" y="1825" width="670" height="251" frameX="-33" frameY="-7" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0026" x="687" y="530" width="687" height="261" frameX="-26" frameY="-7" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0027" x="719" y="1311" width="687" height="255" frameX="-26" frameY="-13" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0028" x="1407" y="1311" width="687" height="255" frameX="-26" frameY="-13" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0029" x="0" y="265" width="702" height="265" frameX="-18" frameY="-13" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0030" x="719" y="1051" width="703" height="260" frameX="-18" frameY="-18" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0031" x="1422" y="0" width="702" height="260" frameX="-18" frameY="-18" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0032" x="0" y="1311" width="719" height="260" frameX="-10" frameY="-18" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0033" x="0" y="1571" width="719" height="254" frameX="-10" frameY="-24" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0034" x="703" y="264" width="719" height="264" frameX="-10" frameY="-14" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0035" x="2097" y="2077" width="720" height="227" frameX="-16" frameY="-14" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0036" x="728" y="2309" width="728" height="227" frameX="-8" frameY="-14" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0037" x="1437" y="2537" width="729" height="210" frameX="-8" frameY="-16" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0038" x="0" y="2537" width="707" height="216" frameX="-8" frameY="-16" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0039" x="0" y="2077" width="688" height="232" frameX="0" frameY="0" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0040" x="688" y="2077" width="688" height="232" frameX="0" frameY="0" frameWidth="732" frameHeight="273" />
+<SubTexture name="Snow group instance 0041" x="2125" y="247" width="696" height="247" frameX="0" frameY="0" frameWidth="732" frameHeight="273" />
+</TextureAtlas>

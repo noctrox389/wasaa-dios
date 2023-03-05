@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="grayblack.png">
+<SubTexture name="whoisthismf0000" x="0" y="0" width="784" height="430" frameX="0" frameY="-2" frameWidth="798" frameHeight="428" />
+<SubTexture name="whoisthismf0001" x="0" y="0" width="784" height="430" frameX="0" frameY="-1" frameWidth="798" frameHeight="428" />
+<SubTexture name="whoisthismf0002" x="784" y="0" width="797" height="426" frameX="-1" frameY="-6" frameWidth="798" frameHeight="428" />
+<SubTexture name="whoisthismf0003" x="0" y="430" width="798" height="426" frameX="-1" frameY="-6" frameWidth="798" frameHeight="428" />
+<SubTexture name="whoisthismf0004" x="798" y="430" width="803" height="422" frameX="-1" frameY="-10" frameWidth="798" frameHeight="428" />
+<SubTexture name="whoisthismf0005" x="798" y="430" width="803" height="422" frameX="-1" frameY="-10" frameWidth="798" frameHeight="428" />
+<SubTexture name="whoisthismf0006" x="0" y="856" width="789" height="422" frameX="-9" frameY="-10" frameWidth="798" frameHeight="428" />
+<SubTexture name="whoisthismf0007" x="0" y="856" width="789" height="422" frameX="-9" frameY="-9" frameWidth="798" frameHeight="428" />
+<SubTexture name="whoisthismf0008" x="789" y="856" width="781" height="428" frameX="-10" frameY="-4" frameWidth="798" frameHeight="428" />
+<SubTexture name="whoisthismf0009" x="0" y="1285" width="781" height="428" frameX="-10" frameY="-4" frameWidth="798" frameHeight="428" />
+<SubTexture name="whoisthismf0010" x="781" y="1285" width="775" height="430" frameX="-11" frameY="-2" frameWidth="798" frameHeight="428" />
+<SubTexture name="whoisthismf0011" x="0" y="1715" width="775" height="431" frameX="-11" frameY="-1" frameWidth="798" frameHeight="428" />
+<SubTexture name="whoisthismf0012" x="0" y="1715" width="775" height="431" frameX="-11" frameY="0" frameWidth="798" frameHeight="428" />
+<SubTexture name="whoisthismf0013" x="0" y="1715" width="775" height="431" frameX="-11" frameY="0" frameWidth="798" frameHeight="428" />
+</TextureAtlas>

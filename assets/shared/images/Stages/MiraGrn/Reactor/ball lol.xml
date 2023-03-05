@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ball lol.png">
+	
+	
+	<SubTexture name="core instance 10000" x="0" y="0" width="443" height="396" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10001" x="451" y="0" width="443" height="385" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10002" x="902" y="0" width="443" height="395" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10003" x="1353" y="0" width="443" height="394" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10004" x="1804" y="0" width="443" height="393" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10005" x="2256" y="0" width="443" height="392" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10006" x="2707" y="0" width="443" height="380" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10007" x="0" y="404" width="443" height="390" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10008" x="451" y="404" width="443" height="390" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10009" x="902" y="404" width="443" height="388" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10010" x="1353" y="404" width="443" height="388" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10011" x="1804" y="404" width="443" height="376" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10012" x="2256" y="404" width="443" height="386" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10013" x="451" y="404" width="443" height="390" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10014" x="2707" y="404" width="443" height="373" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10015" x="0" y="803" width="443" height="392" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10016" x="451" y="803" width="443" height="385" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10017" x="902" y="803" width="443" height="386" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10018" x="1353" y="803" width="443" height="386" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10019" x="1804" y="803" width="443" height="377" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10020" x="2256" y="803" width="443" height="389" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10021" x="2707" y="803" width="443" height="390" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10022" x="0" y="1204" width="443" height="390" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10023" x="451" y="1204" width="443" height="391" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10024" x="2707" y="404" width="443" height="373" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10025" x="902" y="1204" width="443" height="393" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10026" x="2707" y="803" width="443" height="390" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10027" x="0" y="1204" width="443" height="390" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10028" x="451" y="1204" width="443" height="391" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+	<SubTexture name="core instance 10029" x="1353" y="1204" width="443" height="396" frameX="0" frameY="0" frameWidth="443" frameHeight="397" />
+</TextureAtlas>

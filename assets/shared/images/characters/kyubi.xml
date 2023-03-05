@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kyubi.png">
+	
+	
+	<SubTexture name="corydown0000" x="0" y="0" width="421" height="768" />
+	<SubTexture name="corydown0001" x="425" y="0" width="421" height="768" />
+	<SubTexture name="corydown0002" x="851" y="0" width="421" height="768" />
+	<SubTexture name="corydown0003" x="1277" y="0" width="421" height="768" />
+	<SubTexture name="corydown0004" x="851" y="0" width="421" height="768" />
+	<SubTexture name="corydown0005" x="1277" y="0" width="421" height="768" />
+	<SubTexture name="corydown0006" x="851" y="0" width="421" height="768" />
+	<SubTexture name="corydown0007" x="1277" y="0" width="421" height="768" />
+	<SubTexture name="corydown0008" x="851" y="0" width="421" height="768" />
+	<SubTexture name="coryidle0000" x="1703" y="0" width="424" height="807" />
+	<SubTexture name="coryidle0001" x="2131" y="0" width="424" height="807" />
+	<SubTexture name="coryidle0002" x="2560" y="0" width="424" height="807" />
+	<SubTexture name="coryidle0003" x="2988" y="0" width="424" height="807" />
+	<SubTexture name="coryidle0004" x="0" y="815" width="424" height="807" />
+	<SubTexture name="coryidle0005" x="428" y="815" width="424" height="807" />
+	<SubTexture name="coryidle0006" x="856" y="815" width="424" height="807" />
+	<SubTexture name="coryidle0007" x="1284" y="815" width="424" height="807" />
+	<SubTexture name="coryidle0008" x="1712" y="815" width="424" height="807" />
+	<SubTexture name="coryidle0009" x="2140" y="815" width="424" height="807" />
+	<SubTexture name="coryidle0010" x="1712" y="815" width="424" height="807" />
+	<SubTexture name="coryidle0011" x="2140" y="815" width="424" height="807" />
+	<SubTexture name="coryidle0012" x="1712" y="815" width="424" height="807" />
+	<SubTexture name="coryidle0013" x="2140" y="815" width="424" height="807" />
+	<SubTexture name="coryleft0000" x="2569" y="815" width="406" height="805" />
+	<SubTexture name="coryleft0001" x="2979" y="815" width="406" height="805" />
+	<SubTexture name="coryleft0002" x="0" y="1630" width="406" height="805" />
+	<SubTexture name="coryleft0003" x="410" y="1630" width="406" height="805" />
+	<SubTexture name="coryleft0004" x="0" y="1630" width="406" height="805" />
+	<SubTexture name="coryleft0005" x="410" y="1630" width="406" height="805" />
+	<SubTexture name="coryleft0006" x="0" y="1630" width="406" height="805" />
+	<SubTexture name="coryleft0007" x="410" y="1630" width="406" height="805" />
+	<SubTexture name="coryleft0008" x="0" y="1630" width="406" height="805" />
+	<SubTexture name="coryright0000" x="820" y="1630" width="409" height="805" />
+	<SubTexture name="coryright0001" x="1234" y="1630" width="409" height="805" />
+	<SubTexture name="coryright0002" x="1648" y="1630" width="409" height="805" />
+	<SubTexture name="coryright0003" x="2061" y="1630" width="409" height="805" />
+	<SubTexture name="coryright0004" x="1648" y="1630" width="409" height="805" />
+	<SubTexture name="coryright0005" x="2061" y="1630" width="409" height="805" />
+	<SubTexture name="coryright0006" x="1648" y="1630" width="409" height="805" />
+	<SubTexture name="coryright0007" x="2061" y="1630" width="409" height="805" />
+	<SubTexture name="coryright0008" x="1648" y="1630" width="409" height="805" />
+	<SubTexture name="coryup0000" x="2475" y="1630" width="371" height="856" />
+	<SubTexture name="coryup0001" x="2851" y="1630" width="371" height="856" />
+	<SubTexture name="coryup0002" x="3227" y="1630" width="371" height="856" />
+	<SubTexture name="coryup0003" x="0" y="2494" width="371" height="856" />
+	<SubTexture name="coryup0004" x="375" y="2494" width="371" height="856" />
+	<SubTexture name="coryup0005" x="751" y="2494" width="371" height="856" />
+	<SubTexture name="coryup0006" x="3227" y="1630" width="371" height="856" />
+	<SubTexture name="coryup0007" x="0" y="2494" width="371" height="856" />
+	<SubTexture name="coryup0008" x="375" y="2494" width="371" height="856" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crew1.png">
+<SubTexture name="grey0000" x="580" y="499" width="296" height="489" frameX="0" frameY="-11" frameWidth="297" frameHeight="500" />
+<SubTexture name="grey0001" x="580" y="499" width="296" height="489" frameX="0" frameY="-11" frameWidth="297" frameHeight="500" />
+<SubTexture name="grey0002" x="287" y="499" width="293" height="490" frameX="-3" frameY="-9" frameWidth="297" frameHeight="500" />
+<SubTexture name="grey0003" x="287" y="499" width="293" height="490" frameX="-3" frameY="-9" frameWidth="297" frameHeight="500" />
+<SubTexture name="grey0004" x="0" y="499" width="287" height="492" frameX="-8" frameY="-7" frameWidth="297" frameHeight="500" />
+<SubTexture name="grey0005" x="0" y="499" width="287" height="492" frameX="-8" frameY="-7" frameWidth="297" frameHeight="500" />
+<SubTexture name="grey0006" x="868" y="0" width="288" height="496" frameX="-6" frameY="-4" frameWidth="297" frameHeight="500" />
+<SubTexture name="grey0007" x="868" y="0" width="288" height="496" frameX="-6" frameY="-3" frameWidth="297" frameHeight="500" />
+<SubTexture name="grey0008" x="0" y="0" width="289" height="499" frameX="-5" frameY="-1" frameWidth="297" frameHeight="500" />
+<SubTexture name="grey0009" x="0" y="0" width="289" height="499" frameX="-5" frameY="-1" frameWidth="297" frameHeight="500" />
+<SubTexture name="grey0010" x="289" y="0" width="290" height="499" frameX="-4" frameY="-1" frameWidth="297" frameHeight="500" />
+<SubTexture name="grey0011" x="289" y="0" width="290" height="499" frameX="-4" frameY="0" frameWidth="297" frameHeight="500" />
+<SubTexture name="grey0012" x="579" y="0" width="289" height="499" frameX="-4" frameY="-1" frameWidth="297" frameHeight="500" />
+<SubTexture name="grey0013" x="579" y="0" width="289" height="499" frameX="-4" frameY="0" frameWidth="297" frameHeight="500" />
+</TextureAtlas>

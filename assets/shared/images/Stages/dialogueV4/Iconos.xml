@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Iconos.png">
+<SubTexture name="bf0000" x="0" y="0" width="142" height="86" frameX="0" frameY="-25" frameWidth="150" frameHeight="150" />
+<SubTexture name="gf0000" x="109" y="336" width="116" height="102" frameX="-16" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="red0000" x="0" y="118" width="105" height="95" frameX="-19" frameY="-30" frameWidth="150" frameHeight="150" />
+<SubTexture name="redS0000" x="105" y="118" width="105" height="95" frameX="-19" frameY="-30" frameWidth="150" frameHeight="150" />
+<SubTexture name="green0000" x="142" y="0" width="103" height="96" frameX="-20" frameY="-27" frameWidth="150" frameHeight="150" />
+<SubTexture name="greenI0000" x="210" y="118" width="102" height="96" frameX="-17" frameY="-28" frameWidth="150" frameHeight="150" />
+<SubTexture name="yellow0000" x="0" y="336" width="109" height="121" frameX="-10" frameY="-2" frameWidth="150" frameHeight="150" />
+<SubTexture name="white0000" x="214" y="214" width="105" height="106" frameX="-19" frameY="-17" frameWidth="150" frameHeight="150" />
+<SubTexture name="grey0000" x="245" y="0" width="103" height="118" frameX="-19" frameY="-7" frameWidth="150" frameHeight="150" />
+<SubTexture name="maroon0000" x="0" y="214" width="110" height="112" frameX="-9" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="pink0000" x="110" y="214" width="104" height="122" frameX="-20" frameY="0" frameWidth="150" frameHeight="150" />
+</TextureAtlas>
